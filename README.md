@@ -5,7 +5,7 @@ Department of Electronic & Telecommunication Engineering, University of Moratuwa
 
 ## Overview
 
-This project investigates the use of 60 GHz mmWave radar to detect arterial pulse signals from the wrist. We aim to develop a wearable prototype and evaluate radar sensing as an alternative or complementary method to optical photoplethysmography (PPG).
+This project investigates the use of mmWave radar to detect arterial pulse signals from the wrist. We aim to develop a prototype and evaluate radar sensing as an alternative or complementary method to optical photoplethysmography (PPG).
 
 The study explores performance under conditions that can affect optical PPG, including motion, skin pigmentation, ambient light, and tissue characteristics.
 
@@ -15,7 +15,7 @@ The study explores performance under conditions that can affect optical PPG, inc
 - Extract pulse waveforms and estimate heart rate from radar signals.
 - Investigate heart rate variability and blood pressure estimation, subject to experimental validation.
 - Develop adaptive sensing and signal processing based on signal quality and motion.
-- Compare radar and optical PPG performance during sitting, walking, and running.
+- Compare radar and optical PPG performance during sitting and walking.
 
 ## System Approach
 
@@ -54,4 +54,4 @@ The project is under development. Prototype design, radar data analysis, adaptiv
 
 ## Research Use
 
-This is an academic research prototype intended for development and experimental evaluation. It is not a validated medical device.
+This is an academic research prototype intended for development and experimental evaluation.
