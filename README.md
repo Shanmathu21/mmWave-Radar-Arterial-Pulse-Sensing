@@ -54,4 +54,4 @@ The project is under development. Prototype design, radar data analysis, adaptiv
 
 ## Research Use
 
-This is an academic research prototype intended for development and experimental evaluation.
+This is an academic research prototype intended for development and experimental evaluations.
